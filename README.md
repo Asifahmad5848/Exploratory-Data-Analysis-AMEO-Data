@@ -1,5 +1,6 @@
-objective -> 
-is to understand the relationships among features and the spread of the data
+Objective
+
+Is to understand the relationships among features and the spread of the data
 The dataset was released by Aspiring Minds from the Aspiring Mind Employment Outcome
 2015 (AMEO). The study is primarily limited only to students with engineering disciplines. The
 dataset contains the employment outcomes of engineering graduates as dependent variables
